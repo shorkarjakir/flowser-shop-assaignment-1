@@ -167,12 +167,14 @@ align-items: center;
   height: 220px;
   border-radius: 8px;
   background: rgba(39, 39, 39, 0.05);
-  padding: 5px 5px 5px 5px;
+  padding-top: 60px;
 }
 .service-section{
   display: flex;
   justify-content: center;
   margin: 0px 150px 0px 150px;
+  text-align: center;
+  margin-top: 100px;
 
 }
 .delivery-text{
@@ -182,4 +184,5 @@ font-size: 20px;
 font-weight: 600;
 line-height: 35px;
 }
+
 
