@@ -33,7 +33,6 @@ nav a{
 header{
   background-color: #E554731A;
 
-
 }
 .btn-primary{
   color: #FFFFFF;
@@ -45,8 +44,7 @@ header{
 }
 /* banner section  */
 .banner-content{
-  max-width: 500px;
-  margin-left: 150px;
+  
 }
 .banner-text{
 color: #272727;
@@ -75,5 +73,5 @@ max-width: 500px;
   display: inline-flex;
   align-items: flex-start;
   gap: 10px;
-  
+
 }
