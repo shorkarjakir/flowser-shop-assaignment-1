@@ -1,0 +1,31 @@
+/* global styles  */
+body{
+  font-family: 'Lato', sans-serif;
+}
+/* header section  */
+
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+nav > ul{
+  display: flex;
+  align-items: center;
+}
+nav li{
+  list-style: none;
+  margin-right: 50px;
+  align-items: center;
+}
+.header-logo{
+  font-size: 45px;
+  
+}
+nav a{
+  text-decoration: none;
+
+}
+header{
+  background-color: #E554731A;
+
+}
