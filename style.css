@@ -32,6 +32,7 @@ nav a{
 header{
   background-color: #E554731A;
 
+
 }
 .btn-primary{
   color: #FFFFFF;
@@ -40,4 +41,8 @@ header{
   font-size: 20px;
   font-weight: 700;
   padding: 15px 30px;
+}
+/* banner section  */
+.banner-content{
+  max-width: 500px;
 }
