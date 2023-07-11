@@ -82,7 +82,32 @@ padding: 0px 0px;
   align-items: center;
   justify-content: space-between;
 }
-.banner-pic{
-  /* width: 600px;
-  height: 800px; */
+/* main section feature  */
+.feature-section{
+  justify-content: center;
+  text-align: center;
+}
+.feature{
+  text-align: center;
+  justify-content: center;
+ 
+}
+.Feature-heading{
+color: #272727;
+text-align: center;
+font-size: 30px;
+font-weight: 800;
+margin-top: 100px;
+margin-bottom: 24px;
+}
+.feature-dis{
+display: flex;
+flex-direction: column;
+text-align: center;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin-top: 0px;
 }
