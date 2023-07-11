@@ -164,15 +164,16 @@ align-items: center;
 /* service section  */
 .service{
   width: 700px;
-  height: 200px;
+  height: 220px;
   border-radius: 8px;
   background: rgba(39, 39, 39, 0.05);
-  padding: ;
+  padding: 5px 5px 5px 5px;
 }
 .service-section{
   display: flex;
   justify-content: center;
   margin: 0px 150px 0px 150px;
+
 }
 .delivery-text{
 color: rgba(39, 39, 39, 0.80);
