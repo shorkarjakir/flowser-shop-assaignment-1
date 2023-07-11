@@ -19,7 +19,8 @@ nav li{
 }
 .header-logo{
   font-size: 45px;
-  margin-left: 50px;
+  margin-left: 150px;
+  
 }
 .logo-end{
   color: #E55473;
@@ -45,4 +46,34 @@ header{
 /* banner section  */
 .banner-content{
   max-width: 500px;
+  margin-left: 150px;
+}
+.banner-text{
+color: #272727;
+font-size: 70px;
+font-weight: 800;
+display: flex;
+max-width: 500px;
+}
+.banner-title{
+  display: flex;
+  max-width: 500px;
+  flex-direction: column;
+  color: rgba(39, 39, 39, 0.60);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  padding-bottom: 0px;
+}
+.shopnow{
+  color: #FFFFFF;
+  background-color: #E55473;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 20px 43px;
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10px;
+  
 }
