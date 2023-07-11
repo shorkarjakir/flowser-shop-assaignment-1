@@ -184,5 +184,46 @@ font-size: 20px;
 font-weight: 600;
 line-height: 35px;
 }
+/* Discount section  */
+.discount-section{
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+display: flex;
+justify-content: space-around;
+align-items: center;
+margin-top: 100px;
 
+}
+.discount{
+
+}
+.dis-title{
+color: #272727;
+font-size: 32px;
+font-weight: 800;
+}
+.offer{
+  color: #E55473;
+}
+.dis-disc{
+display: flex;
+flex-direction: column;
+width: 500px;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-style: normal;
+line-height: 30px;
+}
+.sign-btn{
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+color: #FFF;
+font-size: 20px;
+font-weight: 700;
+}
 
