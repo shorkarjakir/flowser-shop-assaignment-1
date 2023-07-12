@@ -270,6 +270,7 @@ width: 350px;
 height: 25px;
 border-radius: 8px;
 padding: 12px 32px;
+grid-area: a;
 
 }
 .subscribe{
@@ -283,4 +284,15 @@ font-weight: 700;
 margin-right: 40;
 margin-left: 5px;
 
+}
+.input-btn{
+  grid-area: b;
+  
+}
+.submit-container{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-areas: " a a b ";
+  padding: 48px 218px;
+  gap: 5px;
 }
