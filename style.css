@@ -285,16 +285,12 @@ margin-right: 40;
 margin-left: 5px;
 
 }
-.input-btn{
+/* .input-btn{
   grid-area: b;
   
-}
+} */
 .submit-container{
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-areas: " a a b ";
-  padding: 48px 218px;
-  gap: 5px;
+  text-align: center;
 }
 /* footer section start  */
 .footer-section{
