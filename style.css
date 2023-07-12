@@ -235,6 +235,8 @@ font-weight: 700;
  justify-content: center;
  gap: 10px;
  margin-top: 50px;
+ margin-left: 150px;
+ margin-right: 150px;
 }
 /* Email submit section  */
 .news{
@@ -244,7 +246,9 @@ font-weight: 700;
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-  
+  margin-block-start: 0px 150px 0px 150px;
+  margin-left: 150px;
+ margin-right: 150px;
 }
 .news-title{
   color: #272727;
@@ -285,10 +289,6 @@ margin-right: 40;
 margin-left: 5px;
 
 }
-/* .input-btn{
-  grid-area: b;
-  
-} */
 .submit-container{
   text-align: center;
 }
