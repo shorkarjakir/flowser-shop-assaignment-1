@@ -236,4 +236,34 @@ font-weight: 700;
  gap: 10px;
  margin-top: 50px;
 }
+/* Email submit section  */
+.news{
+  background-image: url("../flowser-shop-assaignment-1/flower/Rectangle9.png");
+  margin: 90px 150px 0px 150px;
+  padding-top: 40px;
+}
+.news-title{
+  olor: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+padding-bottom: 0px;
+}
+.news-dis{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin-top: 0px;
+padding-top: 0px;
+}
+.email-submit{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+}
+.subscribe{
 
+}
